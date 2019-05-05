@@ -48,8 +48,9 @@ const styles = {
     fontSize: '32px',
     lineHeight: '48px',
     letterSpacing: '24px',
-    fontWeight: ' 600',
+    fontWeight: '600',
     color: '#fff',
+
   },
   subtitle: {
     fontSize: '28px',

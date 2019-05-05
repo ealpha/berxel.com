@@ -56,7 +56,7 @@ const styles = {
     fontSize: '32px',
     lineHeight: '48px',
     letterSpacing: '24px',
-    fontWeight: ' 600',
+    fontWeight: '600',
     color: '#003366',
   },
   subtitle: {
