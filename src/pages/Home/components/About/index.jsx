@@ -72,7 +72,7 @@ const styles = {
     position: 'absolute',
     fontSize: '16px',
     left: '450px',
-    bottom: '10px',
+    bottom: '88px',
     height: '16px',
     textAlign: 'center',
     letterSpacing: '3px',
